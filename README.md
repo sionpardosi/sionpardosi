@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sion Pardosi</h1>
-<h3 align="center">am currently pursuing a Bachelor of Applied Science in Software Engineering Technology. As a certified Web Developer accredited by the National Professional Certification Agency (BNSP), I specialize in web application development, particularly with the Laravel framework. My expertise includes object-oriented programming, design patterns, and database design—skills I bring to every project from concept to launch. I am committed to leveraging technology to drive innovation and am passionate about staying updated with the latest industry trends.</h3>
+<h3 align="center">I am currently pursuing a Bachelor of Applied Science in Software Engineering Technology. As a certified Web Developer accredited by the National Professional Certification Agency (BNSP), I specialize in web application development, particularly with the Laravel framework. My expertise includes object-oriented programming, design patterns, and database design—skills I bring to every project from concept to launch. I am committed to leveraging technology to drive innovation and am passionate about staying updated with the latest industry trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sionprdsi&label=Profile%20views&color=0e75b6&style=flat" alt="sionprdsi" /> </p>
 
