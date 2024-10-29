@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sionprdsi&label=Profile%20views&color=0e75b6&style=flat" alt="sionprdsi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sionprdsi" alt="sionprdsi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sionpardosi" alt="sionprdsi" /></a> </p>
 
 - 📄 Know about my experiences [www.linkedin.com/in/sion-pardosi](www.linkedin.com/in/sion-pardosi)
 
