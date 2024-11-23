@@ -3,7 +3,7 @@
 
 ## Visitor Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=sionpardosi&label=Profile%20Views&color=0e75b6&style=flat&labelColor=0e75b6&message=K)
+![Profile Views](https://komarev.com/ghpvc/?username=sionprdsi&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sionpardosi" alt="sionprdsi" /></a> </p>
 
