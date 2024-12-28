@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sionpardosi" alt="sionprdsi" /></a> </p>
 
-### 📄 **Jurnal Publikasi Saya**  
+### 📄 **My Published Journal**  
 [Pengujian dan Analisis Teknik Steganografi Menggunakan Metode Playfair, ElGamal, dan LSB untuk Penyembunyian Data pada Gambar Digital dalam Aplikasi Modern](https://journal.iteba.ac.id/index.php/jurnal_quancom/article/view/422)  
 **DOI**: [10.62375/jqc.v2i2.422](https://doi.org/10.62375/jqc.v2i2.422)
 
